@@ -1,0 +1,7 @@
+name = "GridSphere"
+uuid = "3e3ccece-5da5-4ca7-bc82-45ee5530fa3b"
+authors = ["Akihisa Hattori <hattori.akihisa.0124@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
