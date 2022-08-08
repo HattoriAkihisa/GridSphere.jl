@@ -6,7 +6,7 @@ https://jp.mathworks.com/matlabcentral/fileexchange/28842-grid-sphere).
 ## Install
 ```julia
 using Pkg
-Pkg.add("GridSphere")
+Pkg.add(url = "https://github.com/HattoriAkihisa/GridSphere.jl")
 ```
 
 ## Usgae
